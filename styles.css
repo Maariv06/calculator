@@ -28,11 +28,10 @@ input {
     height:70px;
     width:260px;
     background-color: rgb(45, 46, 46);
-    box-shadow: inset -5px -5px 12px rgb(17, 17, 17),inset 5px 5px 12px black;
     border: none;
     border-radius: 30px;
     color:white;
-    font-size: 50px;
+    font-size: 25px;
     text-align: end;
     margin:30px auto ;
     padding: 20px;
@@ -61,7 +60,7 @@ button {
 }
 
 button:hover {
-    background-color: rgb(235, 223, 223);
+    background-color: rgb(194, 187, 187);
 }
 
 
